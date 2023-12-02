@@ -2,14 +2,14 @@ body{
  background: red;
 }
 .container {
-  position: absolute;
+  position: relative;
   left: 300px;
   top: 50px;
 }
 
 
 .tree {
-  position: absolute;
+  position: relative;
 }
 
 
@@ -17,37 +17,10 @@ body{
   z-index: 1;
   position: absolute;
   border-radius: 100%;
-  width: 13px;
-  height: 13px;
+  width: 10px;
+  height: 10px;
 }
 
-.bauble.one { 
-  top: 65px;
-  width: 13px;
-  height: 13px;
-  background: #FFE066;
-} 
-
-.bauble.two { 
-  top: 105px; left: -30px;
-  width: 13px;
-  height: 13px;
-  background: #FFE066;
-} 
-
-.bauble.three { 
-  top: 110px; left: 15px;
-  width: 13px;
-  height: 13px;
-  background: #FFE066;
-} 
-
-.bauble.four { 
-  top: 163px; left: -30px;
-  width: 13px;
-  height: 13px;
-  background: #FFE066;
-} 
 
 .light {
   box-shadow: 1px 1px 10px #CCC,
