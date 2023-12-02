@@ -8,8 +8,8 @@ body{
 }
 
 .socks {
-  width: 10px
-  height: 10px
+  width: 10px;
+  height: 10px;
   position: absolute;
   top: 80px; left: 10px;
   z-index: 1;
@@ -17,8 +17,8 @@ body{
 }
 
 .socks.two {
-  width: 10px
-  height: 10px
+  width: 10px;
+  height: 10px;
   position: absolute;
   top: 143px; left: -40px;
   z-index: 1;
