@@ -320,6 +320,8 @@ box-shadow: 1px 1px 10px #CCC,
   top: 102px; left: -60px;
 }
 
-.star-light {
-  
+.star:hover {
+  box-shadow: 1px 1px 10px #CCC,
+               -2px 1px 10px #CCC,
+                   0 -1px 10px #CCC
 }
