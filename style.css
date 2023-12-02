@@ -18,8 +18,8 @@ body{
   z-index: 1;
   position: absolute;
   border-radius: 100%;
-  width: 10px;
-  height: 10px;
+  width: 15px;
+  height: 15px;
 }
 .bauble.one { 
   top: 65px;
