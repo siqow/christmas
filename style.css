@@ -27,7 +27,26 @@ body{
   height: 13px;
   background: #FFE066;
 } 
+.bauble.two { 
+  top: 105px; left: -30px;
+  width: 13px;
+  height: 13px;
+  background: #FFE066;
+} 
 
+.bauble.three { 
+  top: 110px; left: 15px;
+  width: 13px;
+  height: 13px;
+  background: #FFE066;
+} 
+
+.bauble.four { 
+  top: 163px; left: -30px;
+  width: 13px;
+  height: 13px;
+  background: #FFE066;
+} 
 
 .light {
   box-shadow: 1px 1px 10px #CCC,
