@@ -117,7 +117,11 @@ h1{
   position: absolute;
   border-radius: 100%;
 }
-
+.bauble:hover {
+box-shadow: 1px 1px 10px #CCC,
+               -2px 1px 10px #CCC,
+                   0 -1px 10px #CCC
+}
 .bauble.one { 
   top: 65px;
   width: 13px;
