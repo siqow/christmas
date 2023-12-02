@@ -20,6 +20,12 @@ body{
   width: 10px;
   height: 10px;
 }
+.bauble.one { 
+  top: 65px;
+  width: 13px;
+  height: 13px;
+  background: #FFE066;
+} 
 
 
 .light {
